@@ -833,7 +833,7 @@
 "Unload filament"
 
 #MSG_UNLOADING_FILAMENT c=20
-"Unloading filament"
+"Unloading filam."
 
 #MSG_TOTAL c=6
 "Total"

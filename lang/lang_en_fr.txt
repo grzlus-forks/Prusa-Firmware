@@ -528,7 +528,7 @@
 
 #MSG_LOADING_FILAMENT c=20
 "Loading filament"
-"Chargement du fil."
+"Chargement du f."
 
 #MSG_ITERATION c=12
 "Iteration"
@@ -1111,7 +1111,7 @@
 "Decharger fil."
 
 #MSG_UNLOADING_FILAMENT c=20
-"Unloading filament"
+"Unloading filam."
 "Dechargement fil."
 
 #MSG_TOTAL c=6

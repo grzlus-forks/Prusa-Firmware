@@ -244,7 +244,7 @@
 
 #MSG_EJECTING_FILAMENT c=20
 "Ejecting filament"
-"werfe Filament aus"
+"werfe Filam. aus"
 
 #MSG_SELFTEST_ENDSTOP_NOTHIT c=20
 "Endstop not hit"
@@ -1111,8 +1111,8 @@
 "Fil. entladen"
 
 #MSG_UNLOADING_FILAMENT c=20
-"Unloading filament"
-"Filament auswerfen"
+"Unloading filam."
+"Filam. auswerfen"
 
 #MSG_TOTAL c=6
 "Total"

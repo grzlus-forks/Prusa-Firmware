@@ -244,7 +244,7 @@
 
 #MSG_EJECTING_FILAMENT c=20
 "Ejecting filament"
-"Espellendo filamento"
+"Espellendo filam."
 
 #MSG_SELFTEST_ENDSTOP_NOTHIT c=20
 "Endstop not hit"
@@ -528,7 +528,7 @@
 
 #MSG_LOADING_FILAMENT c=20
 "Loading filament"
-"Caricando filamento"
+"Caricando filam."
 
 #MSG_ITERATION c=12
 "Iteration"
@@ -1111,8 +1111,8 @@
 "Scarica filam."
 
 #MSG_UNLOADING_FILAMENT c=20
-"Unloading filament"
-"Scaricando filamento"
+"Unloading filam."
+"Scaricando filam."
 
 #MSG_TOTAL c=6
 "Total"
