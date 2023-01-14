@@ -19,7 +19,7 @@
 #define DEVELOPER
 
 // Printer name
-#define CUSTOM_MENDEL_NAME "Prusa i3 MK3S"
+#define CUSTOM_MENDEL_NAME "Bondtech-MM-12x MK3s-HT"
 
 // Electronics
 #define MOTHERBOARD BOARD_EINSY_1_0a
@@ -35,6 +35,8 @@
 //#define E3D_PT100_EXTRUDER_NO_AMP
 //#define E3D_PT100_BED_WITH_AMP
 //#define E3D_PT100_BED_NO_AMP
+  
+#define BONDTECH_MOSQUITO_MAGNUM
 
 
 /*------------------------------------
@@ -43,7 +45,7 @@
 
 // Steps per unit {X,Y,Z,E}
 //#define DEFAULT_AXIS_STEPS_PER_UNIT   {100,100,3200/8,140}
-#define DEFAULT_AXIS_STEPS_PER_UNIT   {100,100,3200/8,280}
+#define DEFAULT_AXIS_STEPS_PER_UNIT   {100,100,3200/8,415}
 //#define DEFAULT_AXIS_STEPS_PER_UNIT   {100,100,3200/8,560}
 
 // Endstop inverting
@@ -69,7 +71,7 @@
 #define X_MIN_POS 0
 #define Y_MAX_POS 212.5
 #define Y_MIN_POS -4 //orig -4
-#define Z_MAX_POS 210
+#define Z_MAX_POS 205
 #define Z_MIN_POS 0.15
 
 // Canceled home position
@@ -591,7 +593,7 @@
 #elif defined(E3D_PT100_EXTRUDER_NO_AMP)
 #define TEMP_SENSOR_0 148
 #else
-#define TEMP_SENSOR_0 5
+#define TEMP_SENSOR_0 800
 #endif
 #define TEMP_SENSOR_1 0
 #define TEMP_SENSOR_2 0
